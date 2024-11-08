@@ -1,0 +1,37 @@
+.intestazione{
+    background-color: deeppink;
+
+    border-style: solid;
+    border-width: 10px;
+    border-color: crimson;
+    border-radius: 30px;
+
+    text-align: center;
+
+    color: chartreuse;
+
+    padding: 8px;
+}
+
+.link-navigazione{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+.foglio{
+    border-style: solid;
+    border-color: red;
+    position: absolute;
+    top: 300px;
+    left: 300px;
+}
+
+.contenuto{
+    text-align: center;
+}
+
+.nome{
+    color: tomato;
+}
